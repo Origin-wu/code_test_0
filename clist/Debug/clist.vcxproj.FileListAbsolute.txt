@@ -1,0 +1,2 @@
+D:\git\code_test_0\clist\Debug\clist.exe
+D:\git\code_test_0\clist\Debug\clist.pdb
